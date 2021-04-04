@@ -8,7 +8,7 @@ We tried to narrow down the range of learning rates for gradient descent by demo
 
 ![Loss Graph](/figures/loss_curves_v4.png)
 
-To prevent overfitting, we tracked train and test accuracy as training continues:
+To prevent overfitting, we tracked train and test accuracies as training continues:
 
 
 ![Train-Test Accuracy_ReLu](/figures/train_test_relu.png)
