@@ -17,3 +17,4 @@ To prevent overfitting, we tracked train and test accuracies as training continu
 
 With a model of 2 hidden layers, 128 neurons in each layer, we received the below cross-validation and test results:
 
+![Results_Table](/figures/results_table.png)
